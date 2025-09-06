@@ -1,0 +1,13 @@
+# Ignorar carpeta de builds de Jupyter Book
+_build/
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Caché de Python
+__pycache__/
+*.pyc
